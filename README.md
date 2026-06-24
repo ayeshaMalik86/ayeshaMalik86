@@ -13,9 +13,9 @@
 <p align="center">Full Stack Developer · MERN · Frontend-focused</p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/ayeshaMalik86"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/ayesha-malik-0bb7a727a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://your-portfolio.com](https://portfolio-mocha-eight-50.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:ayeshaamalik734@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -71,8 +71,6 @@ fixes, and deployments.
 
 ## 📌 Featured Project
 
-### Dial Loom CRM — Dialer Admin Platform (Frontend)
-
 A clean, TypeScript-first rebuild of a call-center / dialer admin dashboard,
 built on the **Next.js App Router**.
 
@@ -87,6 +85,8 @@ built on the **Next.js App Router**.
   API boundaries
 
 > _Tech: Next.js · TypeScript · TanStack Query · Tailwind CSS · Zod_
+
+🧰 _Beyond this, I've built a range of other projects — landing pages, dashboards, booking platforms, social media and real estate apps, and more._
 
 ---
 
@@ -123,8 +123,8 @@ built on the **Next.js App Router**.
 
 - 📧 **Email:** ayeshaamalik734@gmail.com
 - 📱 **Phone:** +92-301-01-56-113
-- 💼 **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-- 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/ayesha-malik-0bb7a727a/)
+- 🌐 **Portfolio:** [your-portfolio.com](https://portfolio-mocha-eight-50.vercel.app/)
 
 ---
 
