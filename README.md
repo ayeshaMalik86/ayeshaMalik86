@@ -109,12 +109,12 @@ built on the **Next.js App Router**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaMalik86&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaMalik86&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaMalik86&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
