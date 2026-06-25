@@ -123,8 +123,8 @@ built on the **Next.js App Router**.
 
 - 📧 **Email:** ayeshaamalik734@gmail.com
 - 📱 **Phone:** +92-301-01-56-113
-- 💼 **LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/ayesha-malik-0bb7a727a/)
-- 🌐 **Portfolio:** [your-portfolio.com](https://portfolio-mocha-eight-50.vercel.app/)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/ayesha-malik-0bb7a727a/)
+- 🌐 **Portfolio:** (https://portfolio-mocha-eight-50.vercel.app/)
 
 ---
 
